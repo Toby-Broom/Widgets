@@ -17,6 +17,9 @@ and of course HWinfo.
 You'll need to find the correct vaules for these vairable using the included HWiNFOSharedMemoryViewer in the HWInfo skin
 
 HWiNFOHostId= ID of computer
+
 HWiNFOSensorId= some hex value for the sensor
+
 HWiNFOSensorInstance= the instance of sensor
+
 HWiNFOEntryId= the hex value for the ID of the sensor
