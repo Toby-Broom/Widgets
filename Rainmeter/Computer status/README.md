@@ -1,4 +1,4 @@
-# Rainmeter Skin
+# Rainmeter Skin to monitor a remote computer
 
 This is the skin file for rainmeter, here is example for a computer
 
