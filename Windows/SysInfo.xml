@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+System Infomation Report
+v1.2
+ -->
+<SysInfo>
+  <Computer />
+  <Updated />
+  <Availability />
+  <Uptime_Raw />
+  <Uptime_Form />
+  <CPUUse />
+  <DiskUse />
+  <MaxUpTime_Raw />
+  <MaxUpTime_Form />
+  <MaxDownTime_Raw />
+  <MaxDownTime_Form />
+  <CurrentUp />
+  <TotalUpTime />
+  <TotalDownTime_Raw />
+  <TotalDownTime_Form />
+  <Boots />
+  <Crashes />
+  <LastBoot />
+  <FirstBoot />
+</SysInfo>
