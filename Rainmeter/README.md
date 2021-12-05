@@ -1,6 +1,6 @@
 # Rainmeter Skin
 
-This is the skin file for rainmeter
+This is the skin file for rainmeter, here is example for a computer
 
 ![Screenshot 2021-12-05 205717](https://user-images.githubusercontent.com/27242647/144761727-631d85a9-f229-47a6-9255-4f02553d2f8b.png)
 
