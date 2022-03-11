@@ -15,3 +15,5 @@ As in windows share the folder with the Sysinfo.xml file
 You'll need to install the intel power gadget from https://www.intel.com/content/www/us/en/developer/articles/tool/power-gadget.html
 
 XMLStarlet http://xmlstar.sourceforge.net/ can be downloaded with Homebrew on MacOS  https://brew.sh/
+
+iStats is avaliable from here https://github.com/Chris911/iStats
