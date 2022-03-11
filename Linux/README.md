@@ -9,4 +9,4 @@ I put the files in my home directly and share a folder from there with the xml f
 You need to install [turbostat](https://github.com/torvalds/linux/tree/master/tools/power/x86/turbostat), [tuptime](https://github.com/rfrail3/tuptime)
 
 `sudo apt install linux-tools-common`
-`sudo apt install tuptime'
+`sudo apt install tuptime`
