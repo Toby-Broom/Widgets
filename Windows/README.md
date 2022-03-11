@@ -12,7 +12,7 @@ I abstracted the code for running the updates out of the main code so I could mo
 
 I typically convert the Invoke-SysXML to an .exe with https://github.com/MScholtes/Win-PS2EXE as it less hassle to run as a scheduled task
 
-Invoke-SysXML.xml cane be used to create scheduled task
+Invoke-SysXML.xml can be used to create scheduled task
 
 I also run the log off script reboot.cmd when shutting down to trigger the reset of the more static data generated with Get-SystemData.ps1
 
