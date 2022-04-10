@@ -1,4 +1,4 @@
-echo "<?xml version="1.0" encoding="UTF-8"?>" >SysInfo.xml
+echo "<?xml version=/"1.0/" encoding=/"UTF-8/"?>" >SysInfo.xml
 echo "<!--" >>SysInfo.xml
 echo "System Infomation Report" >>SysInfo.xml
 echo "v1.3" >>SysInfo.xml
